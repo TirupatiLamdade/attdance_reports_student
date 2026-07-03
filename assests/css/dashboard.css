@@ -1,0 +1,9 @@
+.sidebar{
+width:220px;
+float:left;
+}
+
+.content{
+margin-left:230px;
+padding:20px;
+}
