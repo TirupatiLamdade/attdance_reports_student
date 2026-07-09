@@ -78,7 +78,7 @@ WHERE attendance_date=CURDATE()"))[0];
 <?php echo $totalAttendance; ?>
 </h3>
 
-<p>Total Attendance Records</p>
+<p>Total Attendanced Records</p>
 
 </div>
 
